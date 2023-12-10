@@ -10,11 +10,13 @@ export default function TypingSlogan() {
 
                 <TypeAnimation
                     sequence={[
-                        'Live Captions',
+                        'Live Caption',
                         1000,
                         ('Text-to-Speech'),
                         1000,
                         ('Speech-to-Text'),
+                        1000,
+                        ('Translator'),
                         1000,
                         () => {
                             // console.log('Done typing!')

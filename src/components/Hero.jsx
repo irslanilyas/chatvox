@@ -11,20 +11,21 @@ const Hero = () =>
   <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
     <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
       <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2 ">
-
-        <img
-          src={discount}
-          alt="discount"
-          className="w-[32px] h-[32px]"
-        />
+        <a href="https://www.instagram.com/faizylegend/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
+          <img
+            src={discount}
+            alt="discount"
+            url="https://www.instagram.com/faizylegend/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+            className="w-[32px] h-[32px]"
+          />
+        </a>
         <p className={`${styles.paragraph} ml-2 uppercase`}>
-          <span className="text-white">Founder of</span>
+          <span className="text-white">Founder of </span>
           {""}
           <span className="text-white">@</span>
           Faizylegend
         </p>
       </div>
-
       <div className="flex flex-row justify-between items-center w-full">
         <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px]">
           The Next <br className="sm:block hidden" /> {" "}
@@ -38,7 +39,7 @@ const Hero = () =>
         <TypingSlogan />
       </h1>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Real-time screen captions transform spoken words into on-screen text, commonly employed for live-streamed or in-person meetings and events. Additionally, we serve as a tool for text to speech, and capturing live conversations.
+      Our real-time screen captioning service transforms spoken words into on-screen text for live events and meetings. Additionally, we offer text-to-speech capabilities and live conversation capture. With built-in translation support for languages like Spanish, French, and German, we facilitate seamless communication in diverse linguistic environments.
       </p>
     </div>
 

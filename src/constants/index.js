@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, bill, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -19,7 +19,7 @@ export const navLinks = [
   {
     id: "clients",
     title: "Faizy Legend",
-    url: "#",
+    url: "https://faizylegend.vercel.app/",
   },
 ];
 
@@ -43,7 +43,7 @@ export const features = [
     icon: send,
     title: "Save Notes",
     content:
-      "Capture and relive your moments with our innovative video recording feature, seamlessly saving your notes to the gallery while displaying subtitles on the screen, ensuring a personalized and unforgettable visual experience.",
+      "Our app provides a versatile translation feature, seamlessly converting text to speech in English, Spanish, French, and German. Enhance communication across languages with ease, making it a valuable tool for diverse linguistic environments.",
   },
 ];
 
@@ -87,8 +87,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Screen Recording",
-    value: "Unlimited",
+    title: "Languages",
+    value: "50+",
   },
 ];
 
@@ -162,12 +162,12 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/faizylegend/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/faizyjamalz",
   },
   {
     id: "social-media-3",
@@ -177,7 +177,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/faiz-jamal-ba0305187/",
   },
 ];
 
