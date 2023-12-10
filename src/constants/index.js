@@ -41,7 +41,7 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Save Notes",
+    title: "Translator",
     content:
       "Our app provides a versatile translation feature, seamlessly converting text to speech in English, Spanish, French, and German. Enhance communication across languages with ease, making it a valuable tool for diverse linguistic environments.",
   },
