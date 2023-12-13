@@ -13,7 +13,7 @@ const Billing = () => (
     </div>
 
     <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>TThere are other apps similar to this.
+      <h2 className={styles.heading2}>There are other apps similar to this.
         <br className="sm:block hidden" />What's different about us?</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Experience the thrill of seamless, face-to-face communication with our app! Say goodbye to the constant phone-face shuffle – our real-time captions keep the conversation flowing effortlessly, allowing you to stay fully engaged with the person in front of you. Embrace the excitement of distraction-free, dynamic interactions!

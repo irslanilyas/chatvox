@@ -29,7 +29,7 @@ const Business = () => {
         <h2 className={styles.heading2}>Missing out the conversations? <br className="sm:block hidden" /> Don't worry, we got you!</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>That's right, we mean it! We do not want you to feel left out of this conversation. No one should be alone in this world.</p>
 
-        <Button3 styles="mt-10" />
+        {/* <Button3 styles="mt-10" /> */}
       </div>
 
       <div className={`${layout.sectionImg} flex-col`}>

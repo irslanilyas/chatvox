@@ -88,7 +88,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Languages",
-    value: "50+",
+    value: "5+",
   },
 ];
 
@@ -167,7 +167,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/faizyjamalz",
+    link: "https://www.facebook.com/FaizyLegend/",
   },
   {
     id: "social-media-3",
